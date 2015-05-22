@@ -8,7 +8,7 @@ using Rhino.Geometry;
 
 namespace _5.Classes
 {
-    class Loop : Rhino_Processing
+    class Loop : Rhino_Processing//test
     {
         List<Vertex> vertex = new List<Vertex>();
 
